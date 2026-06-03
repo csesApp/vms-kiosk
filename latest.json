@@ -1,11 +1,11 @@
 {
-    "version":  "3.0.29",
-    "notes":  "VMS Kiosk 3.0.29 release.",
-    "pub_date":  "2026-06-03T09:37:12Z",
+    "version":  "3.0.30",
+    "notes":  "VMS Kiosk 3.0.30 release.",
+    "pub_date":  "2026-06-03T09:51:07Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTUQ5WXFSRnVPaXFiTWIvZG5OQ042QWNYWFN1Vm42OEwwRjNkWkU5K3VFNk5hVWF1Q1VzVmUvNUtpYTBydmlKRGh0M0N3VWNiSkJ4UWUzampXR0FiNHAzcnR3dC8vVmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNDc5NDMyCWZpbGU6Vk1TIEtpb3NrXzMuMC4yOV94NjQtc2V0dXAuZXhlClBlckxndVA1WlU2dVBuTkM5Wi9VczJTNDVtNXhTSlo3OGdKM0RRR3pVNC96WnZmYzl0YVMvekVpSnpEWHNkbVJYNmlNMWhURmtPZ0c1a0pxYlZDL0N3PT0K",
-                                             "url":  "https://github.com/csesApp/vms-kiosk/releases/download/v3.0.29/VMS%20Kiosk_3.0.29_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTUQ5WXFSRnVPaWhJWE9TbFRzc1FVM3dnTENObHFOQ3ArVDI3cS9rZ1ZmcS9INEF4NmxUQitNdndDd29PUzlqbFVxa0lYS0NZamROZ1RtejlKbUt6eUtnZCtvQ2NCWWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNDgwMjY2CWZpbGU6Vk1TIEtpb3NrXzMuMC4zMF94NjQtc2V0dXAuZXhlClE4WktjRWl2aUlIWXVPc3QzTXJuVC9TRE51a0N3bkxjOTlwRFRYWEtvMFRKZ0Z5NGU0TTROUXFwTjdiMUtFRW5rS2swbVRITCtTT1l1RFoyWXdRUEN3PT0K",
+                                             "url":  "https://github.com/csesApp/vms-kiosk/releases/download/v3.0.30/VMS%20Kiosk_3.0.30_x64-setup.exe"
                                          }
                   }
 }
